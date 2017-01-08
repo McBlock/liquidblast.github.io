@@ -1,2 +1,2 @@
-# liquidblast-game-studios.github.io
+# liquidblast.github.io
 The Liquidblast Game Studios website.
